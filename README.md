@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheQuizzer
-- 👀 I’m interested in discord.js
-- 🌱 I’m currently learning discord.js
-- 💞️ I’m looking to collaborate on github
-- 📫 Reach me on discord TheQuizzer#0002
+- 👀 I like MARVEL and CRICKET
+- 🌱 I’m currently learning discord.js and aoi.js
+- 💞️ Join this awesome server - https://dsc.gg/kryptonserver
+- 📫 Reach me on discord TheQuizzer#3000
 
 <!---
 TheQuizzer/TheQuizzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
