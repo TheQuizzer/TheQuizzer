@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheQuizzer
 - 👀 I like MARVEL and CRICKET
-- 🌱 I’m currently learning discord.js and aoi.js
+- 🌱 I’m currently a bot developer, Developing bots in discord.js
 - 💞️ Join this awesome server - https://dsc.gg/kryptonserver
 - 📫 Reach me on discord TheQuizzer#3000
 
